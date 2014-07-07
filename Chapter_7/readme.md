@@ -1,7 +1,11 @@
+# will print what is in the quotes
 puts 'Mary had a little lamb.'
+# used double quotes cause of the 's and used the % to print out snow
 puts "It's fleece is white as %s." % 'snow'
+# print out what is in the quotes
 puts 'And everywhere that Mary went.'
-puts "." * 10 # what'd that do?
+# will multiply and print what is in the quotes
+puts '.' * 10 # what'd that do?
 
 end1 = 'C'
 end2 = 'h'
