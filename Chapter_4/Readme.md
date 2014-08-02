@@ -7,13 +7,15 @@ There was an underscore between car and pool but not when you were defineing wha
 
 Here's more extra credit:
 I used 4.0 for space_in_a_car, but is that necessary? What happens if it's just 4?
-It will make the answer more accurate.
+It will make the answer more accurate. But it didnt change the outcome
 
 Remember that 4.0 is a "floating point" number. Find out what that means.
 A "Floating point number" allows you to add a decimal to make the answer more accurate.
 Write comments above each of the variable assignments.
+
 Make sure you know what = is called (equals) and that it's making names for things.
 Remember _ is an underscore character.
+
 Try running IRB as a calculator like you did before and use variable names to do your calculations. 
 Popular variable names are also i, x, and j.
 

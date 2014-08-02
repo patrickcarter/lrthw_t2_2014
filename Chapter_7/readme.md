@@ -26,4 +26,17 @@ puts end7 + end8 + end9 + end10 + end11 + end12
 # notice how we are using print instead of puts here. change it to puts
 # and see what happens. using print put the
 # cheese and burger together to get cheeseburger
+# Mary had a little lamb.
+# It's fleece is white as snow.
+# And everywhere that Mary went.
+# ..........
+# Cheeseburger
+# Process finished with exit code 0
 # using puts made the cheese and burger go on different lines.
+# Mary had a little lamb.
+# It's fleece is white as snow.
+# And everywhere that Mary went.
+# ..........
+# Cheese
+# burger
+# Process finished with exit code 0
