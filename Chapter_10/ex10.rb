@@ -14,3 +14,4 @@ puts persian_cat
 puts backslash_cat
 puts fat_cat
 puts ' Add this as a final line in ex10.rb'
+# Deleted the guardfile
