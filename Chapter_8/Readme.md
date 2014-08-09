@@ -44,3 +44,4 @@ puts formatter % [
 # So I said goodnight.
 
 # Process finished with exit code 0
+# Deleted the guardfile 
